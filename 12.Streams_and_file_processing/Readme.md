@@ -1,3 +1,9 @@
+Usage of good bit
+
+
+
+![image](https://user-images.githubusercontent.com/97059168/214580610-c011952b-f5b7-4efd-aef4-b5fae708715b.png)
+
 Expected output 
 
 
